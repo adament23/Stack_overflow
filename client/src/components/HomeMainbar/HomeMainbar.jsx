@@ -11,7 +11,7 @@ const HomeMainbar = () => {
 
   const questionsList = useSelector((state) => state.questionsReducer);
 
-  console.log(questionsList)
+  
 
 
 
